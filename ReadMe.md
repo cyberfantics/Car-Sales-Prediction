@@ -47,8 +47,3 @@ The repository includes a Jupyter notebook named Car_Price_Analysis.ipynb, which
   - [LinkedIn](https://www.linkedin.com/in/mansoor-bukhari-77549a264/)
   - [Email](mailto:digital.creator380@gmail.com)
 ---
-
-## Repository Stats
-
-![Repository Stats](https://github-readme-stats.vercel.app/api?username=CyberFantics&show_icons=true&theme=radical)
-
