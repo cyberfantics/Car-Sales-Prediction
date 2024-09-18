@@ -33,7 +33,8 @@ pip install streamlit pandas scikit-learn
 ```
 
 2. Run the Streamlit app
-  ```streamlit run app.py
+  ```
+streamlit run app.py
   ```
 
 ### Jupyter Notebook
@@ -45,19 +46,6 @@ The repository includes a Jupyter notebook named Car_Price_Analysis.ipynb, which
   - [GitHub](https://github.com/CyberFantics)
   - [LinkedIn](https://www.linkedin.com/in/mansoor-bukhari-77549a264/)
   - [Email](mailto:digital.creator380@gmail.com)
-
----
-
-## GitHub Trophies 🏆
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CyberFantics&theme=monokai&no-bg=true&no-frame=true&row=1&column=7)
-
----
-
-## GitHub Activity Graph 📈
-
-[![Mansoor's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CyberFantics&bg_color=0d1117&color=ffffff&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/CyberFantics)
-
 ---
 
 ## Repository Stats
