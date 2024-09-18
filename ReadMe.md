@@ -27,9 +27,11 @@ pip install streamlit pandas scikit-learn
 ```
 ### Running the Application
 1. Clone the repository
-   ```git clone https://github.com/cyberfantics/car-price-prediction.git
-      cd car-price-prediction
-  ```
+```
+   git clone https://github.com/cyberfantics/car-price-prediction.git
+   cd car-price-prediction
+```
+
 2. Run the Streamlit app
   ```streamlit run app.py
   ```
@@ -38,4 +40,27 @@ pip install streamlit pandas scikit-learn
 The repository includes a Jupyter notebook named Car_Price_Analysis.ipynb, which provides a detailed analysis of the dataset, including data cleaning, feature engineering, and exploratory data analysis.
 
 ## Developer
-- Mansoor Bukhari
+
+- **Mansoor Bukhari**
+  - [GitHub](https://github.com/CyberFantics)
+  - [LinkedIn](https://www.linkedin.com/in/mansoor-bukhari-77549a264/)
+  - [Email](mailto:digital.creator380@gmail.com)
+
+---
+
+## GitHub Trophies 🏆
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CyberFantics&theme=monokai&no-bg=true&no-frame=true&row=1&column=7)
+
+---
+
+## GitHub Activity Graph 📈
+
+[![Mansoor's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CyberFantics&bg_color=0d1117&color=ffffff&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/CyberFantics)
+
+---
+
+## Repository Stats
+
+![Repository Stats](https://github-readme-stats.vercel.app/api?username=CyberFantics&show_icons=true&theme=radical)
+
